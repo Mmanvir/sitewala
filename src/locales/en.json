@@ -1,0 +1,564 @@
+{
+  "meta": {
+    "title": "Sitewala | Websites that bring customers",
+    "description": "Websites for shops, clinics, restaurants and local businesses in India. Works on mobile. Customers find you on Google. Clear prices in ₹.",
+    "pages": {
+      "services": "Services",
+      "samples": "Sample websites",
+      "process": "How we work",
+      "grow": "How a website helps your business",
+      "prices": "Prices",
+      "quote": "Get a free quote",
+      "about": "About Sitewala"
+    }
+  },
+  "skip": "Skip to main content",
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "samples": "Samples",
+    "process": "How We Work",
+    "grow": "Grow With a Website",
+    "prices": "Prices",
+    "about": "About",
+    "quote": "Get Free Quote",
+    "menu": "Menu",
+    "close": "Close menu",
+    "label": "Main menu"
+  },
+  "topbar": {
+    "call": "Call",
+    "whatsapp": "WhatsApp",
+    "switchLabel": "हिंदी",
+    "switchAria": "हिंदी में देखें (View in Hindi)"
+  },
+  "common": {
+    "whatsappUs": "WhatsApp Us",
+    "seePrices": "See Prices",
+    "getQuote": "Get Free Quote",
+    "callNow": "Call Now",
+    "startingFrom": "Starting from",
+    "askPrice": "Get a quote",
+    "perMonth": "/month",
+    "wantOneLikeThis": "Want one like this?",
+    "comingSoon": "Live preview coming soon",
+    "seeLive": "See live preview",
+    "seeSample": "See sample",
+    "readMore": "Read more"
+  },
+  "whatsapp": {
+    "defaultMessage": "Hi Sitewala, I want a website for my business.",
+    "sampleMessage": "Hi Sitewala, I liked the {name} sample. I want a website like this.",
+    "floatLabel": "Chat with us on WhatsApp"
+  },
+  "businessTypes": {
+    "shop": "Shop / store",
+    "restaurant": "Restaurant / cafe",
+    "clinic": "Clinic / doctor",
+    "salon": "Salon / beauty parlour",
+    "gym": "Gym / fitness",
+    "realestate": "Real estate",
+    "school": "School / coaching",
+    "transport": "Transport / logistics",
+    "other": "Other"
+  },
+  "home": {
+    "hero": {
+      "badge": "Websites for Indian businesses",
+      "title": "Aapke business ki website, jo customer laaye.",
+      "subtitle": "We make websites for shops, clinics, restaurants and other local businesses. More calls. More WhatsApp messages. More trust.",
+      "note": "Prices start from {price}. First talk is free.",
+      "previewLabel": "Sample websites made by Sitewala"
+    },
+    "who": {
+      "title": "Who we make websites for",
+      "subtitle": "Tap a card to see a sample website."
+    },
+    "why": {
+      "title": "Why your business needs a website",
+      "points": [
+        {
+          "title": "Customers find you on Google",
+          "text": "When someone searches for a shop or clinic near them, your business shows up."
+        },
+        {
+          "title": "More calls and WhatsApp enquiries",
+          "text": "One tap and the customer is calling you or messaging you on WhatsApp."
+        },
+        {
+          "title": "People trust you more",
+          "text": "A clean website with real photos shows you are a serious business."
+        }
+      ],
+      "more": "How a website helps your business"
+    },
+    "process": {
+      "title": "How we work",
+      "subtitle": "4 simple steps. You approve everything.",
+      "more": "See every step"
+    },
+    "calculator": {
+      "title": "How much will my website cost?",
+      "subtitle": "Choose what you need. See the price in ₹ right away."
+    },
+    "beforeAfter": {
+      "title": "Before and after",
+      "subtitle": "An old website next to a Sitewala website.",
+      "note": "Example made for an invented business.",
+      "before": "Before",
+      "after": "After",
+      "beforePoints": [
+        "Hard to read on mobile",
+        "No call or WhatsApp button",
+        "Old photos, no prices"
+      ],
+      "afterPoints": [
+        "Clear and easy on every phone",
+        "Call and WhatsApp in one tap",
+        "Fresh photos, menu and prices"
+      ]
+    },
+    "founder": {
+      "title": "A message from our founder",
+      "lines": [
+        "I started Sitewala to help local businesses get good websites.",
+        "I explain everything in simple words, not computer words.",
+        "Your website should bring you customers. That is my only goal."
+      ],
+      "name": "Manvir Singh",
+      "role": "Founder, Sitewala",
+      "photoAlt": "Photo of Manvir Singh, founder of Sitewala",
+      "photoSoon": "Photo coming soon",
+      "more": "Read our story"
+    },
+    "faq": {
+      "title": "Common questions"
+    },
+    "form": {
+      "title": "Tell us about your business",
+      "subtitle": "Fill this short form. We will call you back within 24 hours."
+    }
+  },
+  "process": {
+    "title": "How we work",
+    "subtitle": "From the first call to a live website. Here is every step.",
+    "timeLabel": "Time",
+    "steps": [
+      {
+        "title": "Talk to us",
+        "text": "Tell us about your business on call or WhatsApp. What you sell, who your customers are, and what you want.",
+        "time": "Day 1"
+      },
+      {
+        "title": "See the design",
+        "text": "We show you how your website will look. Ask for any changes you want.",
+        "time": "2 to 4 days"
+      },
+      {
+        "title": "We build it",
+        "text": "We make the full website. You approve every change.",
+        "time": "1 to 3 weeks"
+      },
+      {
+        "title": "Go live",
+        "text": "Your website is ready and we teach you how to use it.",
+        "time": "1 day"
+      }
+    ],
+    "note": "Time depends on the size of your website. We tell you the date before we start.",
+    "afterTitle": "After your website is live",
+    "afterPoints": [
+      "We take care of your website every month with the Care Plan.",
+      "Need a small change? Just send us a WhatsApp.",
+      "Your website stays safe and secure (lock icon)."
+    ]
+  },
+  "services": {
+    "title": "Our services",
+    "subtitle": "Pick the website that fits your business. Not sure? Ask us on WhatsApp.",
+    "forLabel": "Good for",
+    "getLabel": "What you get",
+    "items": {
+      "simple": {
+        "name": "Simple website",
+        "for": "New shops and small businesses",
+        "points": [
+          "1 to 5 pages",
+          "Works perfectly on mobile, tablet and computer",
+          "Call and WhatsApp buttons",
+          "Contact form"
+        ]
+      },
+      "business": {
+        "name": "Business website",
+        "for": "Clinics, salons, coaching centres and offices",
+        "points": [
+          "Up to 10 pages",
+          "Customers find you on Google",
+          "Your location on Google Maps",
+          "Photo gallery",
+          "You can change photos and prices yourself"
+        ]
+      },
+      "store": {
+        "name": "Online store",
+        "for": "Clothing, gift, grocery and other shops",
+        "points": [
+          "Sell your products online and take payments",
+          "Product photos, sizes and prices",
+          "Orders come to you on WhatsApp and email"
+        ]
+      },
+      "threeD": {
+        "name": "3D / moving website",
+        "for": "Real estate, gyms and brands that want to stand out",
+        "points": [
+          "A website that moves and catches the eye",
+          "Show property or products in 3D",
+          "Still opens fast on mobile"
+        ]
+      },
+      "landing": {
+        "name": "Landing page for ads",
+        "for": "Businesses running ads on Facebook, Instagram or Google",
+        "points": [
+          "One page made only for your ad",
+          "More visitors become paying customers",
+          "Call and WhatsApp buttons right at the top"
+        ]
+      },
+      "booking": {
+        "name": "Booking website",
+        "for": "Doctors, salons, gyms and restaurants",
+        "points": [
+          "Customers book a time online",
+          "Every booking comes to you on WhatsApp or email",
+          "Fewer phone calls just to book"
+        ]
+      },
+      "makeover": {
+        "name": "Old website makeover",
+        "for": "Businesses with an old or slow website",
+        "points": [
+          "New look, same website address",
+          "Works perfectly on mobile",
+          "Opens faster"
+        ]
+      }
+    }
+  },
+  "samples": {
+    "title": "Sample websites",
+    "subtitle": "Demo websites we made to show what your website can look like.",
+    "note": "These businesses are invented. They are examples, not real clients.",
+    "problemLabel": "The problem",
+    "builtLabel": "What we built",
+    "featuresLabel": "Features",
+    "items": {
+      "spice-route": {
+        "name": "Spice Route",
+        "type": "Restaurant / cafe",
+        "problem": "Customers called again and again to ask for the menu and to book tables.",
+        "built": "A website with the full menu, table booking and WhatsApp ordering.",
+        "features": [
+          "Full menu with photos and prices",
+          "Book a table online",
+          "Order on WhatsApp in one tap"
+        ]
+      },
+      "careplus-clinic": {
+        "name": "CarePlus Clinic",
+        "type": "Clinic / doctor",
+        "problem": "Patients waited on the phone just to book an appointment.",
+        "built": "A clinic website where patients book a time and see each doctor.",
+        "features": [
+          "Book an appointment online",
+          "Doctor profiles with timings",
+          "Clinic location on Google Maps"
+        ]
+      },
+      "urbannest-realty": {
+        "name": "UrbanNest Realty",
+        "type": "Real estate",
+        "problem": "Buyers could not understand a property from a few WhatsApp photos.",
+        "built": "A website that shows each property in 3D, with an enquiry form.",
+        "features": [
+          "See the property in 3D",
+          "Filter by price and area",
+          "Enquiry form and WhatsApp button"
+        ]
+      },
+      "kapda-house": {
+        "name": "Kapda House",
+        "type": "Clothing shop",
+        "problem": "The shop could only sell to people who walked in.",
+        "built": "An online store where customers choose clothes and pay online.",
+        "features": [
+          "All products with photos and sizes",
+          "Cart and online payment (UPI and cards)",
+          "Order updates on WhatsApp"
+        ]
+      },
+      "fitzone-gym": {
+        "name": "FitZone Gym",
+        "type": "Gym / fitness",
+        "problem": "People did not know the plans and prices before visiting.",
+        "built": "A lively gym website with plans, trainers and moving sections.",
+        "features": [
+          "Membership plans with prices",
+          "Trainer cards",
+          "Moving sections that catch the eye"
+        ]
+      },
+      "swifthaul-logistics": {
+        "name": "SwiftHaul Logistics",
+        "type": "Transport / logistics",
+        "problem": "Every price enquiry needed a phone call.",
+        "built": "A website where customers get a freight price estimate themselves.",
+        "features": [
+          "Freight price calculator",
+          "Fleet and truck details",
+          "Quick quote form"
+        ]
+      }
+    }
+  },
+  "grow": {
+    "title": "How a website helps your business grow",
+    "subtitle": "Simple answers. No computer words.",
+    "points": [
+      {
+        "title": "Customers look on Google first",
+        "text": "Before visiting a shop or clinic, many people search on their phone. If you have a website, they find you. If not, they find someone else."
+      },
+      {
+        "title": "Your shop is open 24 hours online",
+        "text": "Even at night, people can see your products, prices and timings."
+      },
+      {
+        "title": "More calls and WhatsApp enquiries",
+        "text": "Big call and WhatsApp buttons. One tap and the customer is talking to you."
+      },
+      {
+        "title": "People trust a business with a website",
+        "text": "A clean website with real photos shows you are a serious business."
+      },
+      {
+        "title": "Answer common questions once",
+        "text": "Put your timings, prices, location and menu on the website. Fewer repeated calls."
+      },
+      {
+        "title": "Sell beyond your area",
+        "text": "With an online store, customers from other cities can buy from you too."
+      },
+      {
+        "title": "Your own name online",
+        "text": "Your website has its own address, like yourshop.in. Easy to share on visiting cards and WhatsApp."
+      }
+    ],
+    "closingTitle": "Not sure what you need?",
+    "closingText": "Send us a WhatsApp. We will tell you honestly what will help your business."
+  },
+  "prices": {
+    "title": "Prices",
+    "subtitle": "Clear starting prices in ₹. We tell you the full price before we start.",
+    "recommended": "Good for most businesses",
+    "note": "All prices are starting prices. The final price depends on what you need.",
+    "packages": {
+      "starter": {
+        "name": "Dukaan / Starter",
+        "for": "For small shops and new businesses",
+        "points": ["1 to 5 pages", "Works perfectly on mobile", "WhatsApp button", "Contact form"]
+      },
+      "business": {
+        "name": "Business",
+        "for": "For clinics, salons, coaching and offices",
+        "points": [
+          "Up to 10 pages",
+          "Customers find you on Google",
+          "Your location on Google Maps",
+          "Photo gallery"
+        ]
+      },
+      "store": {
+        "name": "Online Store",
+        "for": "For shops that want to sell online",
+        "points": ["Your products with photos", "Cart", "Online payment"]
+      },
+      "premium": {
+        "name": "3D / Premium",
+        "for": "For brands that want to stand out",
+        "points": ["Custom moving and 3D design", "Made only for your business"]
+      }
+    },
+    "care": {
+      "name": "Care Plan",
+      "text": "We take care of your website every month.",
+      "points": [
+        "Your website's address and the space it lives on (domain and hosting)",
+        "Updates and backups (a safe copy of your website)",
+        "Small changes whenever you need them"
+      ]
+    },
+    "calculatorTitle": "Price calculator",
+    "calculatorSubtitle": "Choose what you need. See an estimate.",
+    "faqTitle": "Questions about price",
+    "faq": [
+      {
+        "q": "Is this the final price?",
+        "a": "These are starting prices. After a short talk, we give you the full price in writing before we start."
+      },
+      {
+        "q": "What is in the Care Plan?",
+        "a": "Your website's address and the space it lives on, updates, backups and small changes. All for {carePrice} a month."
+      },
+      {
+        "q": "Can I start small and add more later?",
+        "a": "Yes. Start with a simple website. Add an online store or booking later when you need it."
+      }
+    ]
+  },
+  "calculator": {
+    "step1": "1. Your business type",
+    "step2": "2. How many pages?",
+    "step3": "3. Extras (optional)",
+    "pages": {
+      "small": "1 to 5 pages",
+      "medium": "6 to 10 pages",
+      "large": "11 to 20 pages"
+    },
+    "pagesHint": {
+      "small": "Good for a small shop",
+      "medium": "Good for most businesses",
+      "large": "For bigger businesses"
+    },
+    "extras": {
+      "whatsappOrder": "Order on WhatsApp",
+      "onlinePayment": "Take payment online",
+      "booking": "Online booking",
+      "hindi": "Hindi version",
+      "threeD": "3D / moving section"
+    },
+    "estimate": "Estimated price",
+    "range": "{min} to {max}",
+    "estimateNote": "This is an estimate. We tell you the exact price after a short talk.",
+    "send": "Send these details for a free quote",
+    "summary": "From price calculator: {type}, {pages}. Extras: {extras}. Estimate: {range}.",
+    "none": "none"
+  },
+  "form": {
+    "name": "Your name",
+    "namePlaceholder": "Your full name",
+    "phone": "Phone / WhatsApp number",
+    "phonePlaceholder": "10-digit mobile number",
+    "phoneHint": "We will call or WhatsApp you on this number.",
+    "businessType": "Business type",
+    "need": "What do you need?",
+    "budget": "Budget",
+    "message": "Message",
+    "messagePlaceholder": "Tell us anything else about your business",
+    "sample": "Sample you liked",
+    "optional": "(optional)",
+    "choose": "Choose one",
+    "noSample": "None",
+    "needs": {
+      "new": "New website",
+      "store": "Online store",
+      "threeD": "3D website",
+      "makeover": "Makeover of old website",
+      "notSure": "Not sure"
+    },
+    "budgets": {
+      "under": "Under {amount}",
+      "between": "{min} to {max}",
+      "above": "Above {amount}",
+      "notSure": "Not sure yet"
+    },
+    "submit": "Get Free Quote",
+    "sending": "Sending...",
+    "successTitle": "Thank you!",
+    "successText": "We'll call you within 24 hours.",
+    "sendAnother": "Send another enquiry",
+    "errorGeneric": "Sorry, the form could not be sent. Please try again, or message us on WhatsApp.",
+    "errorSummary": "Please fix the fields marked in red.",
+    "errors": {
+      "name": "Please write your name.",
+      "phoneEmpty": "Please write your mobile number.",
+      "phoneLength": "Mobile number should have 10 digits. You wrote {count}.",
+      "phoneStart": "Mobile number should start with 6, 7, 8 or 9.",
+      "businessType": "Please choose your business type.",
+      "need": "Please choose what you need.",
+      "budget": "Please choose your budget."
+    },
+    "fasterTitle": "Faster? WhatsApp us",
+    "fasterText": "Send us a message on WhatsApp and talk to us directly.",
+    "orCall": "Or call us"
+  },
+  "faq": [
+    {
+      "q": "How long does it take to make a website?",
+      "a": "A simple website takes about 1 to 2 weeks. Bigger websites take longer. We tell you the date before we start."
+    },
+    {
+      "q": "I don't know much about computers. Can I still get a website?",
+      "a": "Yes. We do everything. You just tell us about your business on call or WhatsApp."
+    },
+    {
+      "q": "Will my website work on mobile?",
+      "a": "Yes. Every website works perfectly on mobile, tablet and computer."
+    },
+    {
+      "q": "Can I change photos and prices myself?",
+      "a": "Yes, with the Business package and above. We teach you how. Or just WhatsApp us and we will do it."
+    },
+    {
+      "q": "Can my website be in Hindi?",
+      "a": "Yes. We can make your website in Hindi, English, or both."
+    },
+    {
+      "q": "What is the Care Plan?",
+      "a": "For {carePrice} a month, we take care of your website. We keep it online, safe and backed up, and make small changes for you."
+    }
+  ],
+  "quote": {
+    "title": "Get a free quote",
+    "subtitle": "Tell us about your business. We will call you within 24 hours."
+  },
+  "about": {
+    "title": "About Sitewala",
+    "subtitle": "Websites for local businesses, explained in simple words.",
+    "storyTitle": "Our story",
+    "story": [
+      "Hi, I am Manvir Singh, the founder of Sitewala.",
+      "I saw many good local businesses with no website, or with an old website that did not bring any customers.",
+      "I also saw that many website companies talk in difficult computer words. Business owners did not understand what they were paying for.",
+      "So I started Sitewala. We make websites that bring customers, we explain everything in simple words, and we show our prices openly."
+    ],
+    "whyTitle": "Why Sitewala",
+    "why": [
+      {
+        "title": "Simple words",
+        "text": "No computer words. We explain everything in plain Hindi or English."
+      },
+      {
+        "title": "Clear prices",
+        "text": "Our starting prices are on the website. No surprises."
+      },
+      {
+        "title": "Made for mobile",
+        "text": "Your customers use phones. Your website works perfectly on them."
+      },
+      {
+        "title": "WhatsApp first",
+        "text": "Talk to us on WhatsApp, the way you already do business."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Aapke business ki website, jo customer laaye.",
+    "contactTitle": "Contact",
+    "pagesTitle": "Pages",
+    "followTitle": "Follow us",
+    "rights": "© {year} Sitewala. All rights reserved."
+  }
+}
